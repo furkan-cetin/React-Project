@@ -1,0 +1,23 @@
+.div{
+    background-color: rgb(219, 155, 155);
+    margin-bottom: 5px;
+    display: flex;
+    justify-content : space-between;
+    border-style:dashed;
+    border-width: 5px;
+    border-color: black;
+
+}
+
+.aa{
+    color: blue;
+}
+#bb{
+    color: red;
+}
+#cc{
+    color: aliceblue;
+}
+.general{
+    border-style: double;
+}
